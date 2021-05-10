@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agsantagati
 - 👀 I’m interested in coding, communication and media
-- 🌱 I’m currently learning Pythun
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on automation's open source project
 
 <!---
