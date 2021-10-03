@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @agsantagati
 - 👀 I’m interested in coding, communication and media
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on automation's open source project
+- 🌱 I’m currently learning Python, C# and .Net Framework, and Java too
 
 <!---
 agsantagati/agsantagati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
