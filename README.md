@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agsantagati
-- 👀 I’m interested in coding, communication and media
+- 👀 My repository is actually under maintenance, come back later!
 - 🌱 I’m currently a junior java / kotlin developer, currently studying app containerization and advanced python
 
 <!---
